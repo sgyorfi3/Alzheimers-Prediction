@@ -1,5 +1,5 @@
 # Alzheimers-Prediction
-This project involved using ICD-9 diagnosis codes from Medicare Insurance claims data to predict whether an individual would later develop Alzheimer's. The project involved converting the data from a wide form to long-form within SAS and then exporting the file into R. There, I trained a number of supervised machine learning methods on the data to create my predictions.
+This research project involved using ICD-9 diagnosis codes from Medicare Insurance claims data to predict whether an individual would later develop Alzheimer's. The project involved converting the data from a wide form to long-form within SAS and then exporting the file into R. There, I trained a number of supervised machine learning methods on the data to create my predictions.
 
 My involvement with the project began back in early June when Danny Hughes, the head of the Georgia Institute of Technology's Health Economics and Analytics Labratory emailed me a PowerPoint containing the results of his collaboration with colleagues in Louisville. He initially tasked me with replicating the three models in the PowerPoint and running a logistic regression on them. 
 
